@@ -1,0 +1,33 @@
+Category,Activity,Unit,Daily Value,Emission Factor (kg CO₂e per unit),Source
+Transportation,Car – gasoline (commute),km,30,0.241,IPCC 2020 WG III
+Transportation,Bus (commute),km,8,0.069,EPA 2021
+Transportation,Train (short‑distance),km,20,0.041,European Commission 2021
+Transportation,Air travel (short haul, 400 km),km,400,0.15,IATA 2022
+Home Energy,Electricity (household),kWh,10,0.475,EPA 2023
+Home Energy,Natural gas (cooking/heating),m³,1,2.92,EIA 2023
+Home Energy,Water heating (electric),kWh,1,0.475,EPA 2023
+Electronics,Smartphone charging,kWh,0.05,0.475,EPA 2023
+Electronics,Laptop charging,kWh,0.15,0.475,EPA 2023
+Electronics,Television (LED),kWh,0.20,0.475,EPA 2023
+Electronics,Tablet charging,kWh,0.05,0.475,EPA 2023
+Electronics,Home Wi‑Fi router,kWh,0.02,0.475,EPA 2023
+Electronics,Home computer (desktop),kWh,0.25,0.475,EPA 2023
+Electronics,Gaming console,kWh,0.30,0.475,EPA 2023
+HVAC,Air conditioner (summer),kWh,5.00,0.475,EPA 2023
+HVAC,Central heating (winter),kWh,6.00,0.475,EPA 2023
+Laundry,Washing machine (load),kWh,0.50,0.475,EPA 2023
+Laundry,Dryer (load),kWh,3.00,0.475,EPA 2023
+Kitchen,Electric stove (cooking),kWh,0.20,0.475,EPA 2023
+Kitchen,Induction stove (cooking),kWh,0.15,0.475,EPA 2023
+Kitchen,Refrigerator, kWh/day,1.50,0.475,EPA 2023
+Kitchen,Water kettle (boiling),kWh,0.05,0.475,EPA 2023
+Personal Care,Hair dryer, kWh,0.04,0.475,EPA 2023
+Personal Care,Electric toothbrush, kWh,0.002,0.475,EPA 2023
+Office,Printer, kWh,0.01,0.475,EPA 2023
+Food,Beef (red meat),kg,0.10,27.0,IPCC 2020
+Food,Chicken,kg,0.05,6.9,IPCC 2020
+Food,Vegetables,kg,0.30,2.0,IPCC 2020
+Food,Milk (dairy),L,0.50,0.3,IPCC 2020
+Food,Eggs,unit,2,0.1,IPCC 2020
+Waste,Household solid waste (landfill),kg,0.05,0.12,EPA 2023
+Waste,Compostable waste,kg,0.02,0.04,EPA 2023
