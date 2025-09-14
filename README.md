@@ -2,7 +2,8 @@ This project is a beginner-friendly AI/ML-based software tool that estimates the
 
 ## 📦 Project Structure
 CarbonFootprintEstimator/ 
-│ ├── preprocessing/         # Fetches and prepares emission factor data │   └── emission_factors_api.py
+│ ├── preprocessing/         # Fetches and prepares emission factor data 
+│   └── emission_factors_api.py
 │   └── daily_carbon_activities.csv
 │   └── cleaned_data.csv
 │   └── carbon_preprocessing.ipynb
@@ -58,3 +59,4 @@ CarbonFootprintEstimator/
 ## 📚 License
 
 This project is open-source and free to use for educational and environmental awareness purposes.
+
